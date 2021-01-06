@@ -1,0 +1,8 @@
+{
+	"anno": "annotation",
+	"kind": "testErrorTwo",
+	"stck": [
+		"--REPLACED--/json_test.go:101"
+	],
+	"type": "*tracer.Error"
+}
