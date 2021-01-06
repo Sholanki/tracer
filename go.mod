@@ -1,4 +1,4 @@
-module github.com/xh3b4sd/tracer
+module github.com/Sholanki/tracer
 
 go 1.15
 
